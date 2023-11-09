@@ -1,0 +1,14 @@
+# Desigual web scraped data 
+
+## About the website
+
+**Desigual** is a Barcelona-based clothing brand that was founded in 1984. Known for its vibrant and eclectic designs, the brands unique business model is focused on embracing lifes unpredictability through a range of garments that celebrate difference. From clothing to accessories, Desigual’s signature patchwork designs, intense prints, asymmetrical designs, and flamboyant splashes of color define the brands distinctive and positive approach towards fashion. The brand was founded by Swiss businessman Thomas Meyer in Ibiza, Spain who aimed to dress people, not bodies. Although privately owned, Desigual had an aggressive international expansion which has resulted in the brand being present in 72 countries. You can find more information about the brand on their [Wikipedia page](https://en.wikipedia.org/wiki/Desigual) and [Bloomberg](https://www.bloomberg.com/profile/company/3784646Z:SM).
+
+**Desigual** operates in a highly competitive industry, with top competitors such as [Zara](https://www.zara.com/), [H&M](https://www.hm.com/), and [Comptoir des Cotonniers](https://www.comptoirdescotonniers.co.uk/). Zara, a fellow Spanish brand, operates on a fast-fashion model with a focus on speed, technology, and cutting-edge logistics to bring the latest trends to market in double-quick time. Their [Wikipedia](https://en.wikipedia.org/wiki/Zara_(retailer)) and [Bloomberg](https://www.bloomberg.com/profile/company/ITX:SM) pages have more detailed information. H&M, a Swedish multinational, operates with a similar dynamic model but with a stronger emphasis on sustainability. More information about their business model can be found on their [Wikipedia](https://en.wikipedia.org/wiki/H%26M) page and their [Bloomberg](https://www.bloomberg.com/profile/company/HM:B:SS) profile. Comptoir des Cotonniers, a French brand, is known for producing elegant and timeless fashion, with a business model that emphasizes quality over quantity.
+
+Web-scraped data from the **Desigual** website can be used in various use cases. For example, businesses can track changes in pricing and discounts across Desiguals product range over time, allowing them to gain insights into pricing strategies and potential sales. Moreover, by comparing Desiguals product pricing and discounts against that of the competition, businesses can gain a better understanding of the competitive structure of pricing within the industry. Additionally, e-commerce platforms and search engines can use this data to provide up-to-date information to their users about product availability, pricing, and discounts on Desigual. Lastly, analytic companies can leverage this data to analyze trending fashion trends and to forecast future trends by comparing historical and real-time data.
+
+
+## Link to **dataset**
+
+[Desigual dataset](https://www.databoutique.com/buy-data-list-subset/Desigual%20web%20scraped%20data/r/recluURoyQNjbT6MG)
